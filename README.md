@@ -121,6 +121,8 @@ int main(int argc, char* argv[]) {
 ![image](https://github.com/Lathika2006/Linux-IPC-Semaphores/assets/148959215/8dd7cbae-4b53-4c48-b266-5024692e287b)
 
 $ ./sem.o 
+
+
 ![image](https://github.com/Lathika2006/Linux-IPC-Semaphores/assets/148959215/e5a47c99-68fb-4430-8245-b6d2f26bfb7e)
 
 
